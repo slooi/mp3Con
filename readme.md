@@ -15,7 +15,7 @@ app
 
 ## Usage:
 
--   Place files in `combine` folder to generate an `output.mp3` inside app directory
+-   Place mp3 files in `combine` folder to generate a concatenated mp3 file `output.mp3` inside app directory
 
 ## How it works
 
